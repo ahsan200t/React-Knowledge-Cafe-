@@ -12,6 +12,7 @@ const Bookmark = ({ bookmark }) => {
   
 };
 Bookmark.propTypes = {
-  Bookmark: PropTypes.object,
+  bookmark: PropTypes.object,
+  
 };
 export default Bookmark;
